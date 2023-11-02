@@ -7,3 +7,5 @@ This program is meant to simulate (or emulate) how I would like the OS to look l
 If the windows.h header file and its functions are a problem if you don't want to use windows, feel free to remove them and to replace them with whatever you want that does the same thing.
 
 Thank you.
+
+To log in, just enter "zaid"
