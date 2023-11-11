@@ -1,0 +1,27 @@
+My idea in my head was when you make an operating system, this is something to I would put in my mind "make the looks, features, commands, processes, and etc as EASY and USEFUL as possible".
+As for example, what would be a useful command? What is the most useful thing I could get out of a computer anyways? Maybe downloading applications is a useful and important task. So I want to make a command based off of downloading applications online.
+Now, I need to make it easy to use, so that a beginner doesn't get to intimidated, stressed, or anything like that than go to another operating system that might be easier.
+So here are some steps I take:
+
+1. Design
+2. Find a way to implement
+3. Actually program it
+4. Debug
+5. Repeat
+
+So let me design this to be easy (below is what running the commands to do such task looks like):
+
+-> SM_downloader
+-> What would you like to download today? Calculator
+-> Searching for "Calculator" in our servers...
+-> Here are some results:
+-> Calculator_by_bob
+-> Calculator_by_dad
+-> Calculator_by_company
+-> Enter one of the names of the programs above to download them: Calculator_by_bob
+-> Downloading...
+-> Successfully downloaded Calculator_by_bob and its files to /bin
+
+As you can see, what I'm trying to aim for here is a fun and easy, but powerful experience to make using CLI somewhat less stressful if that makes any sense. Thank you for reading.
+
+(also, it doesn't have to be new commands that follow the standard only, you can take existing UNIX commands and try to spice it up a bit too!)
