@@ -2,4 +2,4 @@ Early SM: first version.
 
 Early SM 1: Added a manual page feature. Basically, if you put a "?" before a command like this: "?help", it will pull up information on the "help" command. It is pretty much like the "man" in UNIX.
 
-Early SM 2: Not done yet.
+Early SM 2: Not done yet. Planning to add a function type command that looks like a function in programming. Hoping that this introduces a new styling for commands on a command line that makes it more flexible.
