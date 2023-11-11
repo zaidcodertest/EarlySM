@@ -1,0 +1,5 @@
+If you are wondering why I created this OS which I keep calling SM, I pretty much just wanted to create an example of new types of commands you can put in operating systems that are very easy but incredibaly powerful at the same time.
+As Victor A. Vyssotsky says in "The UNIX System: Making Computers More Productive", "Computer technology is going to have to evolve to be eaiser for people to use...The UNIX system is not the end of the road in this regard, but I think its a good step along the way" in 1982.
+I hope in the making of this, I provide some sort of invention or innovation. This is because when I was using oracle solaris on a VM as a hobby, I looked at the commands in bash and say them, looking at it and thinking "what if I get crazier with what these commands can do".
+I know the first versions don't seem like much, but when I get my head together, and get my help from some, I could push something rule breaking to OS's, especially to the command line which many people still use today.
+If you see a long pause in the making of this "Software Manager", its probably because getting my thoughts together is bringing a bit of some while :)
