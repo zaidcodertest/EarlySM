@@ -1,10 +1,10 @@
-Early SM: first version.
+Early SM: !FINISHED! First version. comes with random commands. Mostly calculators.
 
-Early SM 1: Added a manual page feature. Basically, if you put a "?" before a command like this: "?help", it will pull up information on the "help" command. It is pretty much like the "man" in UNIX.
+Early SM 1: !FINISHED! Added a manual page feature. Basically, if you put a "?" before a command like this: "?help", it will pull up information on the "help" command. It is pretty much like the "man" command in UNIX.
 
-Early SM 2: Added a function type command that looks like a function in programming. Hoping that this introduces a new styling for commands on a command line that makes it more flexible.
+Early SM 2: !FINISHED! Added a function type command that looks like a function in programming. Hoping that this introduces a new styling for commands on a command line that makes it more flexible.
 To be more specific: I wanted to make a command that changes the color of the terminal, being "layout(background color,text color)" as the command.
 
-Early SM 3: Not done yet. Planning to add some logic gate / bitwise operating commands to calculate logic through the program. Them being AND OR NAND NOR XAND XOR. Also planning on updating some of the help pages for the calculator commands to make it more understandable
+Early SM 3: !FINISHED! Added some logic gate / bitwise operating commands to calculate logic through the program. Them being AND, and NAND. Also updated some of the help pages for the calculator commands to make it more understandable. Didn't know how to implement the remaining XAND OR NOR NAND XOR I said I would.
 
-Early SM 4: Wanting to add another function type command called output(). It is supposed to help output things in an algorithmic way.
+Early SM 4: !NOT FINISHED! Wanting to add another function type command called output(). It is supposed to help output information..
