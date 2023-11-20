@@ -4,7 +4,7 @@ I call this early because this is my first try to create new types of commands. 
 
 This program is meant to simulate (or emulate) how I would like the OS to look like. This is meant to be compiled on windows.
 
-If the windows.h header file and its functions are a problem if you don't want to use windows, feel free to remove them and to replace them with whatever you want that does the same thing.
+If the windows.h header file and its functions are a problem if you don't want to use windows, feel free to remove them and to replace them with whatever you want that does the same thing. (for example UNIX has unistd.h that also has some sleep functions)
 
 Thank you.
 
