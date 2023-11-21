@@ -8,4 +8,4 @@ To be more specific: I wanted to make a command that changes the color of the te
 Early SM 3: !FINISHED! Added some logic gate / bitwise operating commands to calculate logic through the program. Them being AND, and NAND. 
 Also updated some of the help pages for the calculator commands to make it more understandable. Didn't know how to implement the remaining XAND OR NOR NAND XOR I said I would.
 
-Early SM 4: !NOT FINISHED! Wanting to add another function type command called output(). It is supposed to help output information..
+Early SM 4: !NOT FINISHED! Wanting to add another function type command called output(). It is supposed to help output information.
