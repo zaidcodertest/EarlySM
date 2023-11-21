@@ -9,3 +9,7 @@ If the windows.h header file and its functions are a problem if you don't want t
 Thank you.
 
 To log in, just enter "zaid"
+# Where to get latest version
+In the "updates" folder you will see all the versions after the first version.
+# How to compile and run
+With current versions EarlySM to EarlySM 3, each one of them are only just one file that uses the standard c++ library. The only external header file I really have is the windows.h which I beleive could be swapped by the unistd.h header file that is on UNIX if you are trying to compile it from there.
