@@ -1,0 +1,35 @@
+typedef feature: basically to add a table which works a bit like a pointer. It pretty much works in a way if you want to call a command, but you don't like its name, so you use typedef to add a command which pretty much just points to execute another command that you referenced it to.
+It works a bit like this:
+----------------------------------------------------------------------
+ls                 |  executes process that lists directories        |
+----------------------------------------------------------------------
+my_ls              |  pointer to execute ls                          |
+----------------------------------------------------------------------
+it works like typedef in C and C++, so you can imgagine it like this (except its in a terminal, not a programming language):
+
+typedef int my_int,
+typedef ls  my_ls.
+
+
+
+
+Keyboard key tester: this was supposed to be added to EarlySM 5, but trying to get it working resulted in something very buggy. I didn't want to put a feature that didn't work, but you can see the main part of the source code if you want:
+void keytest()
+{
+    if (openingscreen == "test") //if test is typed
+    {
+        while (GetKeyState(0x46) != 1) //while keystate != 1
+        {
+            Sleep(200); //added a sleep command to give user time to give some input
+        }
+        
+        LAYOUT_EXCUSE = 1; //if you are wondering what this is, I put this here so I don't mess up the order of the function "openingscreenfunction()". This pretty much tells the error system that "if a command was executed was here please don't throw an error"
+    }
+}
+
+its supposed to look like this:
+
+Enter your character's ASCII code, or type 500 for a table: 500
+*table*
+Enter your character's ASCII code, or type 500 for a table: 49
+Program will exit either in 60 seconds, or when you press "1": 
