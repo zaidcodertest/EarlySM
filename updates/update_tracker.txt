@@ -10,4 +10,4 @@ Also updated some of the help pages for the calculator commands to make it more 
 
 Early SM 4: !FINISHED! Added another function type command called output(). It is supposed to help output information.
 
-Early SM 5: !NOT FINISHED! keyboard tester canceled and thrown in "EarlySM/plans/plans.txt". Will come up with something soon.
+Early SM 5: !NOT FINISHED! keyboard tester canceled and thrown in "EarlySM/plans/plans.txt". New plan is to add a program that creates a table for you.
