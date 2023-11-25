@@ -13,3 +13,9 @@ To log in, just enter "zaid"
 In the "updates" folder you will see all the versions after the first version.
 # How to compile and run
 With current versions EarlySM to EarlySM 4, the entire programs are only just one file that uses the standard c++ library. The only external header file I really have is the windows.h which I beleive could be swapped by the unistd.h header file and its functions that is on UNIX if you are trying to compile it from there.
+# "updates" folder
+This is the folder where the update versions of EarlySM are kept, along with an update tracker which lists what each update has that is new from previous versions. Another file called "update_nomenclature.md" lists the update naming system.
+# "writing" folder
+These are just ideas and goals for this project in general.
+# "plans" folder
+This is pretty much where I want to add a feature but don't because I don't get the idea how to implement something, or in my experience trying was buggy. I leave these things out for people to see so that maybe they might have an idea what to do with them.
