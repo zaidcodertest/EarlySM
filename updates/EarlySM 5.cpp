@@ -684,7 +684,7 @@ void car_quiz()
 void calcAND()
 {
     std::cout << "Welcome to the AND calculator. Enter 0 to exit\n\n";
-    
+
     while (and1 != 0 || and2 != 0)
     {
         std::cin >> and1;
@@ -2482,7 +2482,7 @@ void table()
     //1. Print the table with corresponding values.
     //2. Use strlen() to check the size of the word/number to subtract it from add_space after you output the column variables.
     //
-    
+
     std::string column1X = "";
     std::string column1Y = "";
     std::string column2X = "";
@@ -2493,7 +2493,7 @@ void table()
     std::string column4Y = "";
     std::string column5X = "";
     std::string column5Y = "";
-    
+
     std::string new_add_space1X = "";
     std::string new_add_space1Y = "";
     std::string new_add_space2X = "";
@@ -2504,7 +2504,7 @@ void table()
     std::string new_add_space4Y = "";
     std::string new_add_space5X = "";
     std::string new_add_space5Y = "";
-    
+
     std::string add_space = "                       ";
 
     std::cout << "This is a 2 by 5 table, please enter corresponding values:\n";
@@ -2551,7 +2551,7 @@ void table()
     std::cout << "-------------------------------------------------\n";
     std::cout << "|" << column5X << new_add_space5X << "|" << column5Y << new_add_space5Y << "|\n";
     std::cout << "-------------------------------------------------\n";
-    }
+}
 
 void Qhelp()
 {
@@ -2596,6 +2596,11 @@ void Qclear_screen()
 void Qcreate_file()
 {
     std::cout << "\nCreate a file and kind of \"write\" in it.\n\n";
+}
+
+void Qtable()
+{
+    std::cout << "\nFill out a 2 by 5 table.\n\n";
 }
 
 void Qdivision_calculator()
@@ -2681,7 +2686,7 @@ void openingscreenfunction()
         if (openingscreen == "help")
         {
             std::cout << "Here are a list of commands:";
-            std::cout << "\n\nabout_os\nabout_programming\naddition_calculator\ncalc_AND\ncalc_NAND\ncar_finder\nclear_screen\ncreate_file\ndivision_calculator\nexit\nexponent_calculator\nfun_game\nhardware\nlayout()\nlist_random_nums\nhelp\nmultiplication_calculator\noutput()\nsentence_concat\nsquare_root_calculator\nsubtraction_calculator\nwater_system\n\nTo know more about a command, put a \"?\" behind it like this: \"?help\".\n\n";
+            std::cout << "\n\nabout_os\nabout_programming\naddition_calculator\ncalc_AND\ncalc_NAND\ncar_finder\nclear_screen\ncreate_file\ncreate_table\ndivision_calculator\nexit\nexponent_calculator\nfun_game\nhardware\nlayout()\nlist_random_nums\nhelp\nmultiplication_calculator\noutput()\nsentence_concat\nsquare_root_calculator\nsubtraction_calculator\nwater_system\n\nTo know more about a command, put a \"?\" behind it like this: \"?help\".\n\n";
             openingscreenfunction();
         }
 
@@ -2691,11 +2696,11 @@ void openingscreenfunction()
             openingscreenfunction();
         }
 
-        else if (openingscreen == "test")
+        /*else if (openingscreen == "test")
         {
             table();
             openingscreenfunction();
-        }
+        }*/
 
         else if (openingscreen == "about_os")
         {
@@ -2791,6 +2796,18 @@ void openingscreenfunction()
         else if (openingscreen == "?create_file")
         {
             Qcreate_file();
+            openingscreenfunction();
+        }
+
+        else if (openingscreen == "create_table")
+        {
+            table();
+            openingscreenfunction();
+        }
+
+        else if (openingscreen == "?create_table")
+        {
+            Qtable();
             openingscreenfunction();
         }
 
