@@ -11,3 +11,5 @@ Also updated some of the help pages for the calculator commands to make it more 
 Early SM 4: !FINISHED! Added another function type command called output(). It is supposed to help output information.
 
 Early SM 5: !FINISHED! Added a program that creates a table for you.
+
+Early SM 6: !NOT FINISHED! Planning to add more to the hardware command, especially how much random access memory you have
