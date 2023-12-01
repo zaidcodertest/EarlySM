@@ -9,7 +9,7 @@ it works like typedef in C and C++, so you can imgagine it like this (except its
 
 typedef int my_int,
 typedef ls  my_ls.
-Now when you type my_ls, it just does the exact same thing ls would do.
+Now when you type my_ls, it just does the exact same thing ls would do (printing out the directory).
 
 
 
