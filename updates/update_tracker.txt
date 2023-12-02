@@ -12,4 +12,4 @@ Early SM 4: !FINISHED! Added another function type command called output(). It i
 
 Early SM 5: !FINISHED! Added a program that creates a table for you.
 
-Early SM 6: !NOT FINISHED! Added more to the hardware command. Added information on the local computer name, and added information on random access memory (RAM).
+Early SM 6: !FINISHED! Added more to the hardware command. Added information on the local computer name, and added information on random access memory (RAM).
