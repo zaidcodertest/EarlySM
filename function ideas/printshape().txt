@@ -1,0 +1,47 @@
+void printshape(std::string shape)
+{
+	if (shape == "square")
+	{
+		std::cout << "**********\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "**********\n";
+	}
+
+	else if (shape == "rectangle")
+	{
+		std::cout << "**********\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "*        *\n";
+		std::cout << "**********\n";
+	}
+
+	else
+	{
+		std::cout << "please give a shape (square, or rectangle)\n";
+	}
+}
+
+printshape() is supposed to be a function that was made to print out not characters, but basically objects like a shape.
