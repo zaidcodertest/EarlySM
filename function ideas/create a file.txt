@@ -1,0 +1,3 @@
+filefeature createfile; //new opbject thing
+createfile(newfile.txt); //create a new file called newfile.txt
+writeinfile(newfile.txt,"Hello, World!\n"); // in the first parameter you are supposed to specify what file you are writing to, and the second you are specifying what to write in the file.
