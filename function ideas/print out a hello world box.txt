@@ -1,0 +1,4 @@
+windowobject newwindow; // my new window class or variable or object (however you want to look at it)
+mynewwindow.addbutton(100,200,"click to see message",createwindow,newbutton); //x-axis, y-axis, message to output, this parameter turns the text into a button saying if clicked on it creates a new window, assign a variable name "newbutton" so we can use it to manipulate the button
+mynewwindow.newbutton.addtext(240,130,"Hello, World!",NULL,textbox); //x-axis, y-axis, message to output,put NULL to say that this is not a new button and that it leads no where if you click on it, assign a variable name "textbox" so we can use it to manipulate the text box
+mynewwindow.newbutton.addbutton(500,500,"close",closewindow,otherbutton); //x-axis, y-axis, message to output, this paramter turns the text into a button saying if clicked on closes the window, assign a variable name "otherbutton" so we can use it to manipulate the button
