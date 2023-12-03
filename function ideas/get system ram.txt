@@ -1,1 +1,1 @@
-system.internals.getram;
+system.internals.getram; //use this to get ram information
