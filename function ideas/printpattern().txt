@@ -1,0 +1,49 @@
+void printpattern(int amount, bool include_log, std::string what_to_print)
+{
+	int for_while = 0;
+	int log = 0;
+
+	if (what_to_print == "square")
+	{
+		while (for_while < amount)
+		{
+			printshape("square");
+			log++;
+			for_while++;
+		}
+	}
+
+	else if (what_to_print == "rectangle")
+	{
+		while (for_while < amount)
+		{
+			printshape("rectangle");
+			log++;
+			for_while++;
+		}
+	}
+
+	else
+	{
+		while (for_while < amount)
+		{
+			std::cout << what_to_print << "\n";
+			log++;
+			for_while++;
+		}
+	}
+	
+	amount = 0;
+
+	if (include_log == 1)
+	{
+		std::cout << what_to_print << " has been printed " << log << " times.\n";
+	}
+
+	what_to_print = "";
+	include_log = 0;
+	log = 0;
+}
+
+printpattern() is supposed to be a shortcut to while and for loops offering more features and additions to it. printpattern() nests the printshape() function inside of it.
+it takes 3 parameters. The first one is the amount of repitition, the second one is a boolean where 1 means you want a log of your print function and 0 means you don't want one, and the third is what you want to print out.
