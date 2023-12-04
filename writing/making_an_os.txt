@@ -1,0 +1,19 @@
+Operating systems are the way we are able to execute whatever we want on our computers.
+Without them you would be just finding yourslef in a troubled BIOS not being able to find its boot file.
+What do our programs run on? The OS.
+So this gives us an idea on what we can think of when making an OS.
+We need to remember all of technology depends on OS's no matter the type.
+There for we need to make a dependable operating system that can easily do any universal task with out any unstability and trouble.
+We need to introduce ourslef with the idea of a Universal Usage Operating System aka UUOS.
+It has to be able to do any and every task.
+It can fit any role so that the user can do anything he wants to do without switching somewhere else.
+Because if the OS fails some way the user might just go away somewhere else.
+I would like to introduce FSR anti-virus technology, (file to software recognition)
+What it does is that it mostly targets ransomware.
+Whenever a program you execute that doesn't have a safety certificate tries to play with your files (even if you use a programming language to compile a program that manages your files) it will not allow it to execute.
+Basically the FSR is basically on watch looking at any behavior that tries to change files it doesn't own. It prevents it from happening unless the program has a certified certificate.
+You can put it on an even crazier lockdown where it doesn't allow any program to change or play around with files it didn't create.
+Allthough the program can change a file it created. So how is FSR supposed to know if a program needs to change its own file?
+When the program creates a file, it will have a special key inside telling FSR that hey, this file is was created by me so let me change it.
+What about those special programs whose sole existance is to simply change files and operating system settings that it doesn't own? (well if FSR isn't on complete lockdown), basically if the software has a certificate it will automatically ignore any behavior associated with changing files.
+FSR can be used for companies that need security.
