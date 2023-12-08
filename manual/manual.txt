@@ -1,1 +1,22 @@
-work in progress
+EarlySM is an operating system based off of the menality of simplifying to make things easier.
+In other word provinding the best experience compining usability and ease.
+
+In this manual we will be talking about how we suppose to use an operating system with such mentality embeded in its foundation.
+
+At first you are shown up with a login screen. Just put "zaid" to get in.
+
+Afterwards, you are in the normal territory to be expected in of your average shell
+
+In order to find all of your commands, enter "help".
+
+Once you do, you'll be shown all the commands you have.
+
+As you could see, "help" is also a part of other commands meaning it is built within the same family.
+
+Put a question mark before any command, and you will get a more detailed explanation on what it does. For example "?help".
+
+EarlySM introduces something called "function type commmands" resembling how a function would be used in pogramming.
+
+This makes the commands ever so much more flexible allowing for more control and specification to how you want a function to behave.
+
+Thank you.
