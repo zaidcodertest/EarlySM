@@ -21,3 +21,5 @@ These are just ideas and goals for this project in general.
 This is pretty much where I want to add a feature but don't because I don't get the idea how to implement something, or in my experience trying was buggy. I leave these things out for people to see so that maybe they might have an idea what to do with them.
 # "function ideas" folder
 This folder could also be for other ideas for programming languages, including functions for programming languages as the folder name states.
+# "manual" folder
+This folder is supposed to contain the manual for EarlySM.
