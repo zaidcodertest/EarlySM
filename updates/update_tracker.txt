@@ -14,4 +14,5 @@ Early SM 5: !FINISHED! Added a program that creates a table for you.
 
 Early SM 6: !FINISHED! Added more to the hardware command. Added information on the local computer name, and added information on random access memory (RAM).
 
-Early SM 7: !NOT FINISHED! Planning to add a function reference sheet.
+Early SM 7: !NOT FINISHED! Planning to add a function (or some sort of programming) reference sheet. On top of that I'm trying to actually create the manual as it says in the program "Please check your manual for usage"
+in the manual folder.
