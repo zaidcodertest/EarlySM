@@ -5,7 +5,7 @@ In this manual we will be talking about how we suppose to use an operating syste
 
 At first you are shown up with a login screen. Just put "zaid" to get in.
 
-Afterwards, you are in the normal territory to be expected in of your average shell
+Afterwards, you are in the normal territory to be expected in of your average shell.
 
 In order to find all of your commands, enter "help".
 
