@@ -1,5 +1,5 @@
 EarlySM is an operating system based off of the menality of simplifying to make things easier.
-In other words provinding the best experience compining usability and ease.
+In other words provinding the best experience combining usability and ease.
 
 In this manual we will be talking about how we suppose to use an operating system with such mentality embeded in its foundation.
 
