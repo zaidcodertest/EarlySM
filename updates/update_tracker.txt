@@ -17,4 +17,5 @@ Early SM 6: !FINISHED! Added more to the hardware command. Added information on 
 Early SM 7: !FINISHED! Added a C++ programming tutorial guide. On top of that we added the manual as it says in the OS "Please check your manual for usage"
 from the manual folder. The manual was added digitaly to EarlySM. Also a small change was made to output(time).
 
-Early SM 8: !NOT FINISHED! Wanting to add more to the C++ programming tutorial. On top of that I would like to do some sort of number conversion program that for example converts KiloWatts to Watts. Going to fix the hardware command up.
+Early SM 8: !NOT FINISHED! Wanting to add more to the C++ programming tutorial. On top of that I would like to do some sort of number conversion program that for example converts KiloWatts to Watts.
+Also trying to fix the hardware command from some error.
