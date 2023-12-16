@@ -22,3 +22,5 @@ Also fixed the hardware command from some error.
 
 Early SM 9: !FINISHED! Created an OS usage guide that works a bit like the C++ guide. Failure for std::getline to work properly, which means create_file stays the same.
 Also added output(dir_info) which will say the directory you are in and its contents.
+
+Early SM 10: !NOT FINISHED! This time around I'm planning on creating a "building generator" game where you can specify how wide and tall you want your building to be.
