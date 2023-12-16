@@ -20,5 +20,5 @@ from the manual folder. The manual was added digitaly to EarlySM. Also a small c
 Early SM 8: !FINISHED! Added more to the C++ programming tutorial. On top of that there is a number conversion program that converts between units.
 Also fixed the hardware command from some error.
 
-Early SM 9: !NOT FINISHED! Creating an OS usage guide that works a bit like a C++. Wanting to update the create_file command. Also trying to also put output(dir_info)
-which will say the directory you are in and its contents.
+Early SM 9: !FINISHED! Created an OS usage guide that works a bit like the C++ guide. Failure for std::getline to work properly, which means create_file stays the same.
+Also added output(dir_info) which will say the directory you are in and its contents.
