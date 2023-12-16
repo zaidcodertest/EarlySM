@@ -33,3 +33,6 @@ Enter your character's ASCII code, or type 500 for a table: 500
 *table*
 Enter your character's ASCII code, or type 500 for a table: 49
 Program will exit either in 60 seconds, or when you press "1": 
+
+
+create_file: This command just barely works because std::getline wouldn't work for some reason. Hoping sometime I could get it to behave more usably.
