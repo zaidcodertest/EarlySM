@@ -1,12 +1,12 @@
 At the time of writing this text file, EarlySM 10 has been published.
 I heard of UNEXT's existence after I shared this project with you guys actually, and I would be happy if this project has in a way provided for your guys research and needs to make something that works well and properly.
-Unfortunately its either because I'm young or have no experience, but I'm 16 years old doing this with no previous experience taking on a huge project like this, atempting to make something quality.
-I don't know if I push out updates to slow or fast: But I do know that I really try hard when I stick to the "easy" and "useful" part of computing.
+Unfortunately its either because I'm young or have no experience, but I'm 16 years old doing this with no previous experience taking on a huge project like this, atempting to make something quality has been hard.
+I don't know if I push out updates too slow or fast: But I do know that I really try hard when I stick to the "easy" and "useful" part of computing.
 I'll explain the importance of the two.
 When you make computing easy and not complicated, this is what I call true user friendliness. Making things hard makes things worse, when there is no need for it to be.
 When things are done easy, there is less error, and the learning curve is smoother.
-Things have to be useful to, meaning that there are powerful: In the sense that they have a purpose, they are not just sitting there to never be used. Lets be honest, a command loses its need when no one uses it in the first place.
-Meaning that they need to be needed, something the user was looking for, that provides for there need. Not just made to sit there and have nothing be happened to it.
+Things have to be useful to, meaning that they are are powerful: In the sense that they have a purpose, they are not just sitting there to never be used. Lets be honest, a command loses its need when no one uses it in the first place.
+Meaning that they need to be needed, something the user was looking for, that provides for their need. Not just made to sit there and have nothing be happened to it.
 
 EarlySM is a software manager designed for the person who wants ease and power. To do things the person really wanted, with no trouble.
 
@@ -17,4 +17,7 @@ With programs made to comfort your daily life, computing could be dream. Computi
 Computers let you do things that are either hard in real life, or just simply can only be done on a computer. This puts us as humans in modern society with no choice but to use computers.
 This means that we have no choice but to use something hard an complicated. Some things may be easy though, but it general things are hard.
 But with no computer given to us, how would we catch up with society?
-So because these are fundamental in society, we should make them easily accesible
+So because these are fundamental in society, we should make them easily accesible since we are forced to use them anyways.
+Just like how we make a car easy to drive since society relies on them.
+How about we do the same with computers since we have to use them.
+May as well just make them easy to use.
