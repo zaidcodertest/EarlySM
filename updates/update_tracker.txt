@@ -23,4 +23,6 @@ Also fixed the hardware command from some error.
 Early SM 9: !FINISHED! Created an OS usage guide that works a bit like the C++ guide. Failure for std::getline to work properly, which means create_file stays the same.
 Also added output(dir_info) which will say the directory you are in and its contents.
 
-Early SM 10: !NOT FINISHED! This time around I'm planning on creating a "building generator" game where you can specify how wide and tall you want your building to be.
+Early SM 10: !FINISHED! This time around I'm planning on creating a "building generator" game where you can specify how wide and tall you want your building to be.
+By pure coincidence, I found out how to get create_file some what working by throwing std::cin in a while loop and continiously appending to another variable.
+Because of this I'll remove create_file from the plans folder as it looks like I got it behaving normal.
