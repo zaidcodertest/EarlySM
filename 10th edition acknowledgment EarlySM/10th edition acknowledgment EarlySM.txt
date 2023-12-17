@@ -1,6 +1,6 @@
 At the time of writing this text file, EarlySM 10 has been published.
 I heard of UNEXT's existence after I shared this project with you guys actually, and I would be happy if this project has in a way provided for your guys research and needs to make something that works well and properly.
-Unfortunately its either because I'm young or have no experience, but I'm 16 years old doing this with no previous experience taking on a huge project like this, atempting to make something quality has been hard.
+Unfortunately its either because I'm young or have no experience, but I'm 16 years old doing this with no previous experience taking on a huge project like this, attempting to make something quality has been hard.
 I don't know if I push out updates too slow or fast: But I do know that I really try hard when I stick to the "easy" and "useful" part of computing.
 I'll explain the importance of the two.
 When you make computing easy and not complicated, this is what I call true user friendliness. Making things hard makes things worse, when there is no need for it to be.
