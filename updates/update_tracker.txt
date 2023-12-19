@@ -27,4 +27,4 @@ Early SM 10: !FINISHED! This time around I'm planning on creating a "building ge
 By pure coincidence, I found out how to get create_file some what working by throwing std::cin in a while loop and continiously appending to another variable.
 Because of this I'll remove create_file from the plans folder as it looks like I got it behaving normal.
 
-Early SM 11: !NOT FINISHED! Trying to add a RGB tool to deal wih RGB.
+Early SM 11: !FINISHED! Added a RGB tool to deal wih RGB. It is basically supposed to see how your color combos would look like.
