@@ -28,3 +28,5 @@ By pure coincidence, I found out how to get create_file some what working by thr
 Because of this I'll remove create_file from the plans folder as it looks like I got it behaving normal.
 
 Early SM 11: !FINISHED! Added a RGB tool to deal wih RGB. It is basically supposed to see how your color combos would look like.
+
+Early SM 12: !NOT FINISHED! Wanting to add some sort of temporary clipboard where you could basically temporarily store text that you can look back into.
