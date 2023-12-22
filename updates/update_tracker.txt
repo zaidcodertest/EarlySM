@@ -30,3 +30,5 @@ Because of this I'll remove create_file from the plans folder as it looks like I
 Early SM 11: !FINISHED! Added a RGB tool to deal wih RGB. It is basically supposed to see how your color combos would look like.
 
 Early SM 12: !FINISHED! Added some sort of temporary clipboard where you could temporarily store text that you can look back into. You can store, remove, and print text from the clipboard.
+
+Early SM 13: !NOT FINISHED! Trying to add a bargraph or a chart maker of some sort.
