@@ -32,3 +32,5 @@ Early SM 11: !FINISHED! Added a RGB tool to deal wih RGB. It is basically suppos
 Early SM 12: !FINISHED! Added some sort of temporary clipboard where you could temporarily store text that you can look back into. You can store, remove, and print text from the clipboard.
 
 Early SM 13: !FINISHED! Added a bar graph maker.
+
+Early SM 14: !NOT FINISHED! Wanting to add a new command where is shows you how long you have been on EarlySM. Wanting it to look like output(time_on).
