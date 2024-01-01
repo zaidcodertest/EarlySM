@@ -35,4 +35,6 @@ Early SM 13: !FINISHED! Added a bar graph maker.
 
 Early SM 14: !FINISHED! Added a command to read files, which would cancel the other idea to output how long you have been using the program.
 
-Early SM 15: !NOT FINISHED! Wanting to add a list of computer parts and peripherals as a reference for people who deal with hardware.
+Early SM 15: !FINISHED! Added a list of computer parts and peripherals as a reference for people who deal with hardware.
+
+Early SM 16: !NOT FINISHED! Wanting to add a sample weather app.
