@@ -37,4 +37,6 @@ Early SM 14: !FINISHED! Added a command to read files, which would cancel the ot
 
 Early SM 15: !FINISHED! Added a list of computer parts and peripherals as a reference for people who deal with hardware.
 
-Early SM 16: !NOT FINISHED! Wanting to add a sample weather app.
+Early SM 16: !FINISHED! Added a sample weather app.
+
+Early SM 17: !NOT FINISHED! Wanting add a random sentence generator or word generator of some sort.
