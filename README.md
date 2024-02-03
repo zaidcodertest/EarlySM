@@ -25,16 +25,21 @@ This folder is supposed to contain the manual for EarlySM.
 Everything below belongs in the "general-text" folder.
 # "The_roots_of_EarlySM" folder
 This is a weird looking paragraph that gives the general ideas behind the decision of creating this project.
+
 PART-OF "general-text"
 # "10th edition acknowledgment EarlySM" folder
 This folder contains a sort of celebration over EarlySM's tenth version.
+
 PART-OF "general-text".
 # "function ideas" folder
 This folder could also be for other ideas for programming languages, including functions for programming languages as the folder name states.
+
 PART-OF "general-text".
 # "plans" folder
 This is pretty much where I want to add a feature but don't because I don't get the idea how to implement something, or in my experience trying was buggy. I leave these things out for people to see so that maybe they might have an idea what to do with them.
+
 PART-OF "general-text".
 # "writing" folder
 These are just ideas and goals for this project in general.
+
 PART-OF "general-text".
