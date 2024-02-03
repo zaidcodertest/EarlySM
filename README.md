@@ -19,11 +19,6 @@ With current versions from EarlySM to EarlySM 16, the entire programs are only j
 To sumarize just copy and paste the code of whatever version you want and compile from there.
 # "updates" folder
 This is the folder where the updated versions of EarlySM are kept, along with an update tracker which lists what each update has that is new from previous versions. Another file called "update_nomenclature.md" lists the update naming system.
-# "writing" folder
-These are just ideas and goals for this project in general. put in "general-text".
-# "plans" folder
-This is pretty much where I want to add a feature but don't because I don't get the idea how to implement something, or in my experience trying was buggy. I leave these things out for people to see so that maybe they might have an idea what to do with them.
-put in "general-text".
 # "manual" folder
 This folder is supposed to contain the manual for EarlySM.
 # "general-text" folder SECT---
@@ -36,4 +31,10 @@ This folder contains a sort of celebration over EarlySM's tenth version.
 PART-OF "general-text".
 # "function ideas" folder
 This folder could also be for other ideas for programming languages, including functions for programming languages as the folder name states.
+PART-OF "general-text".
+# "plans" folder
+This is pretty much where I want to add a feature but don't because I don't get the idea how to implement something, or in my experience trying was buggy. I leave these things out for people to see so that maybe they might have an idea what to do with them.
+PART-OF "general-text".
+# "writing" folder
+These are just ideas and goals for this project in general.
 PART-OF "general-text".
