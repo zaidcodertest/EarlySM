@@ -41,3 +41,5 @@ Early SM 16: !FINISHED! Added a sample weather app.
 
 Early SM 17: !FINISHED! Added an alternative to the table creator program that does the same job, but works differently.
 This may change the idea of the word generator but hopefully we'd find a way to come back to that.
+
+Early SM 18: !FINISHED! Added a number list organizer using the sort function. Type in numbers and it will repeat organized.
