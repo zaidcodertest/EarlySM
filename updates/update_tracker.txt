@@ -43,3 +43,6 @@ Early SM 17: !FINISHED! Added an alternative to the table creator program that d
 This may change the idea of the word generator but hopefully we'd find a way to come back to that.
 
 Early SM 18: !FINISHED! Added a number list organizer using the sort function. Type in numbers and it will repeat organized.
+
+Early SM 19: !NOT FINISHED! Wanting to add a computer information table that lists information about the user from a prompt which you are supposed to input the iinformation you want in,
+than you can always print out the information from the command line when you are done.
