@@ -44,5 +44,7 @@ This may change the idea of the word generator but hopefully we'd find a way to 
 
 Early SM 18: !FINISHED! Added a number list organizer using the sort function. Type in numbers and it will repeat organized.
 
-Early SM 19: !NOT FINISHED! Wanting to add a computer information table that lists information about the user from a prompt which you are supposed to input the information you want in,
+Early SM 19: !FINISHED! Added a computer information table that lists information about the user from a prompt which you are supposed to input the information you want in,
 than you can always print out the information from the command line when you are done.
+
+Early SM 20: !NOT FINISHED! Wanting to add a programming manual.
