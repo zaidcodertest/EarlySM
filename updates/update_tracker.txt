@@ -34,18 +34,18 @@ Command names: clear_clipboard, input_clipboard, output_clipboard
 
 Early SM 13: !FINISHED! Added a bar graph maker. Command name: bar_graph_maker
 
-Early SM 14: !FINISHED! Added a command to read files, which would cancel the other idea to output how long you have been using the program.
+Early SM 14: !FINISHED! Added a command to read files, which would cancel the other idea to output how long you have been using the program. Command name: read_file
 
-Early SM 15: !FINISHED! Added a list of computer parts and peripherals as a reference for people who deal with hardware.
+Early SM 15: !FINISHED! Added a list of computer parts and peripherals as a reference for people who deal with hardware. Command name: list_of_electronic_parts
 
-Early SM 16: !FINISHED! Added a sample weather app.
+Early SM 16: !FINISHED! Added a sample weather app. Command name: weather
 
 Early SM 17: !FINISHED! Added an alternative to the table creator program that does the same job, but works differently.
-This may change the idea of the word generator but hopefully we'd find a way to come back to that.
+This may change the idea of the word generator but hopefully we'd find a way to come back to that. Command name: alt_create_table
 
-Early SM 18: !FINISHED! Added a number list organizer using the sort function. Type in numbers and it will repeat organized.
+Early SM 18: !FINISHED! Added a number list organizer using the sort function. Type in numbers and it will repeat organized. Command name: organize_numbers
 
 Early SM 19: !FINISHED! Added a computer information table that lists information about the user from a prompt which you are supposed to input the information you want in,
-than you can always print out the information from the command line when you are done.
+than you can always print out the information from the command line when you are done. Command names: input_computer_info, output_computer_info
 
 Early SM 20: !NOT FINISHED! Wanting to add a programming manual.
