@@ -3,35 +3,36 @@ Early SM: !FINISHED! First version. comes with random commands. Mostly calculato
 Early SM 1: !FINISHED! Added a manual page feature. Basically, if you put a "?" before a command like this: "?help", it will pull up information on the "help" command. It is pretty much like the "man" command in UNIX.
 
 Early SM 2: !FINISHED! Added a function type command that looks like a function in programming. Hoping that this introduces a new styling for commands on a command line that makes it more flexible.
-To be more specific: I wanted to make a command that changes the color of the terminal, being "layout(background color,text color)" as the command.
+To be more specific: I wanted to make a command that changes the color of the terminal, being "layout(background color,text color)" as the command. Command name: layout()
 
-Early SM 3: !FINISHED! Added some logic gate / bitwise operating commands to calculate logic through the program. Them being AND, and NAND. 
-Also updated some of the help pages for the calculator commands to make it more understandable. Didn't know how to implement the remaining XAND OR NOR NAND XOR I said I would.
+Early SM 3: !FINISHED! Added some logic gate / bitwise operating commands to calculate logic through the program. Them being AND, and NAND.
+Also updated some of the help pages for the calculator commands to make it more understandable. Didn't know how to implement the remaining XAND OR NOR NAND XOR I said I would. Command names: CALC_AND, CALC_NAND
 
-Early SM 4: !FINISHED! Added another function type command called output(). It is supposed to help output information.
+Early SM 4: !FINISHED! Added another function type command called output(). It is supposed to help output information. Command name: output()
 
-Early SM 5: !FINISHED! Added a program that creates a table for you.
+Early SM 5: !FINISHED! Added a program that creates a table for you. Command name: create_table
 
-Early SM 6: !FINISHED! Added more to the hardware command. Added information on the local computer name, and added information on random access memory (RAM).
+Early SM 6: !FINISHED! Added more to the hardware command. Added information on the local computer name, and added information on random access memory (RAM). Command name: hardware
 
 Early SM 7: !FINISHED! Added a C++ programming tutorial guide. On top of that we added the manual as it says in the OS "Please check your manual for usage"
-from the manual folder. The manual was added digitaly to EarlySM. Also a small change was made to output(time).
+from the manual folder. The manual was added digitaly to EarlySM. Also a small change was made to output(time). Command names: C++_GUIDE, manual
 
 Early SM 8: !FINISHED! Added more to the C++ programming tutorial. On top of that there is a number conversion program that converts between units.
-Also fixed the hardware command from some error.
+Also fixed the hardware command from some error. Command name: unit_convert
 
 Early SM 9: !FINISHED! Created an OS usage guide that works a bit like the C++ guide. Failure for std::getline to work properly, which means create_file stays the same.
-Also added output(dir_info) which will say the directory you are in and its contents.
+Also added output(dir_info) which will say the directory you are in and its contents. Command name: OS_GUIDE
 
 Early SM 10: !FINISHED! This time around I'm planning on creating a "building generator" game where you can specify how wide and tall you want your building to be.
 By pure coincidence, I found out how to get create_file some what working by throwing std::cin in a while loop and continiously appending to another variable.
-Because of this I'll remove create_file from the plans folder as it looks like I got it behaving normal.
+Because of this I'll remove create_file from the plans folder as it looks like I got it behaving normal. Command name: create_a_building
 
-Early SM 11: !FINISHED! Added a RGB tool to deal wih RGB. It is basically supposed to see how your color combos would look like.
+Early SM 11: !FINISHED! Added a RGB tool to deal wih RGB. It is basically supposed to see how your color combos would look like. Command name: test_RGB
 
 Early SM 12: !FINISHED! Added some sort of temporary clipboard where you could temporarily store text that you can look back into. You can store, remove, and print text from the clipboard.
+Command names: clear_clipboard, input_clipboard, output_clipboard
 
-Early SM 13: !FINISHED! Added a bar graph maker.
+Early SM 13: !FINISHED! Added a bar graph maker. Command name: bar_graph_maker
 
 Early SM 14: !FINISHED! Added a command to read files, which would cancel the other idea to output how long you have been using the program.
 
