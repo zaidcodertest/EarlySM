@@ -48,4 +48,5 @@ Early SM 18: !FINISHED! Added a number list organizer using the sort function. T
 Early SM 19: !FINISHED! Added a computer information table that lists information about the user from a prompt which you are supposed to input the information you want in,
 than you can always print out the information from the command line when you are done. Command names: input_computer_info, output_computer_info
 
-Early SM 20: !NOT FINISHED! Wanting to add a programming manual.
+Early SM 20: !FINISHED! Added a programming manual, with an update for the output(time) command being that it had a problem with AM timing and failing to properly initialize during that time.
+Command name: about_programming_updated
