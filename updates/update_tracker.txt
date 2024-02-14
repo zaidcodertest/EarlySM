@@ -50,3 +50,5 @@ than you can always print out the information from the command line when you are
 
 Early SM 20: !FINISHED! Added a programming manual, with an update for the output(time) command being that it had a problem with AM timing and failing to properly initialize during that time.
 Command name: about_programming_updated
+
+Early SM 21: !NOT FINISHED! Wanting to add a feature that checks the version.
