@@ -53,3 +53,5 @@ Command name: about_programming_updated
 
 Early SM 21: !FINISHED! Added a feature that checks the version. output(time) was still giving a problem (because of a mistake) so I hope I finally didn't cause any new issue with that.
 Command name: THIS_VERSION
+
+Early SM 22: !NOT FINISHED! Wanting to add a new feature where you can adjust how fast a line goes down the command line.
