@@ -58,3 +58,5 @@ Early SM 22: !FINISHED! Added a new feature where you can adjust how fast a line
 
 Early SM 23: !FINISHED! Added a program that allows you to input a number, do a list of different calculations on that number,
 and then output many different results based off of what it was calculating based off of that number. (And this program loops)
+
+Eaarly SM 24: !NOT FINISHED! Wanting to add a command that lets you print into a text file the current version of your system.
