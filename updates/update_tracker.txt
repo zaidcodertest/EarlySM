@@ -54,9 +54,9 @@ Command name: about_programming_updated
 Early SM 21: !FINISHED! Added a feature that checks the version. output(time) was still giving a problem (because of a mistake) so I hope I finally didn't cause any new issue with that.
 Command name: THIS_VERSION
 
-Early SM 22: !FINISHED! Added a new feature where you can adjust how fast a line goes down the command line. Command: speed_test
+Early SM 22: !FINISHED! Added a new feature where you can adjust how fast a line goes down the command line. Command name: speed_test
 
 Early SM 23: !FINISHED! Added a program that allows you to input a number, do a list of different calculations on that number,
-and then output many different results based off of what it was calculating based off of that number. (And this program loops)
+and then output many different results based off of what it was calculating based off of that number. (And this program loops) Command name: process_number
 
-Eaarly SM 24: !NOT FINISHED! Wanting to add a command that lets you print into a text file the current version of your system.
+Eaarly SM 24: !FINISHED! Added a command that lets you print into a text file the current version of your system. Command name: THIS_VERSION->print-to-file
