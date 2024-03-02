@@ -14,9 +14,9 @@ To log in, just enter "zaid"
 # Where to get latest version
 In the "updates" folder you will see all the versions after the first version.
 # How to compile and run
-With current versions from EarlySM to EarlySM 23, the entire programs are only just one file that uses the standard c++ library. The only external header file I really have is the windows.h which I beleive could be swapped by the unistd.h header file and its functions that is on UNIX if you are trying to compile it from there.
+With current versions from EarlySM to EarlySM 24, the entire programs are only just one file that uses the standard c++ library. The only external header file I really have is the windows.h which I beleive could be swapped by the unistd.h header file and its functions that is on UNIX if you are trying to compile it from there.
 
-To sumarize just copy and paste the code of whatever version you want and compile from there.
+To sumarize copy and paste the code of whatever version you want and compile from there.
 # "updates" folder
 This is the folder where the updated versions of EarlySM are kept, along with an update tracker which lists what each update has that is new from previous versions. Another file called "update_nomenclature.md" lists the update naming system.
 # "manual" folder
