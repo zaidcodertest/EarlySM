@@ -33,3 +33,7 @@ Enter your character's ASCII code, or type 500 for a table: 500
 *table*
 Enter your character's ASCII code, or type 500 for a table: 49
 Program will exit either in 60 seconds, or when you press "1": 
+
+
+
+Wanting to create program to test, monitor, and determine things and then print them out to a text file.
