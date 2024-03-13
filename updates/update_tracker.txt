@@ -63,4 +63,4 @@ Early SM 24: !FINISHED! Added a command that lets you print into a text file the
 
 Early SM 25: !FINISHED! Added some sort of test that tests the computers speed of how long it takes to count up to a huge number. Command name: test_speed
 
-Early SM 26: !FINISHED! Wanting to add a feature where after you run the command test_speed, you can print your result to a text file. Updated command name: test_speed
+Early SM 26: !FINISHED! Added a feature where after you run the command test_speed, you can print your result to a text file. Updated command name: test_speed
