@@ -65,4 +65,6 @@ Early SM 25: !FINISHED! Added some sort of test that tests the computers speed o
 
 Early SM 26: !FINISHED! Added a feature where after you run the command test_speed, you can print your result to a text file. Updated command name: test_speed
 
-Early SM 27: !NOT FINISHED! Wanting to add a command where you can see a list of comparisons of how to do something in C vs C++.
+Early SM 27: !FINISHED! Added a command where you can see a list of comparisons of how to do something in C vs C++. Command name: compare_C_C++
+
+Early SM 28: !NOT FINISHED! Wanting to add a command to test your speakers to see if they are working.
