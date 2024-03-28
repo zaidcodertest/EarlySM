@@ -1,0 +1,40 @@
+Programming is how we get our software to work. It is what we have to work with. Why? Because computers run off
+of binary and we need to program in order to get the computer running some software. Unfortunately
+there may be some complication to programming like errors, ease of writing, plus ease of reading. If we fix
+this, it will make programming a lot easier. Let us compare two examples:
+-> 
+
+TERMINAL_OUT("Hello world!"); //Imagine this as printf() or std::cout
+
+->
+
+#init terminal                           //ability to manipulate terminal
+#init output                             //ability to output
+#init character_set                      //include characters
+#init number_set                         //include numbers
+
+(DWORD) 100 -> new_variable              //variable, 100 stored inside
+terminal(OUTPUT_MODE, CHARS, NUMBERS)    //terminal(either input, output mode, maybe more   ,,   the rest after is to say you want to use characters or numbers etc)
+STDOUT new_variable                      //pretty much std::cout << new_variable, or printf(%d, new_variable)
+
+??? Both of these are to simply output one line. Why is one set of code so much longer than the other?
+One is just 1 line, the other is 8, including spaces. Lets see. The first example is pretty much saying:
+*print out Hello world!*
+The second???
+*I want the ability to manipulate the terminal*
+*I want the ability to output*
+*I want the ability to use characters by including them*
+*I want the ability to use numbers by including them*
+
+*I want to store the value 100 somewhere I can get back to*
+*I want to set my terminal up to output chracters and numbers*
+*I want to print out the value 100*
+
+This is because of control. The more buttons you have to twist and turn, the more control and flexibility
+(and even performance) you get over the program.
+
+One problem...
+
+All of this comes at a cost. It may be more complicated and hard now to program than before. Also there may be a higher chance of an error.
+We could somehow soften this issue by smartly and correctly designing the programing language so that the added
+complexity does not become a problem.
