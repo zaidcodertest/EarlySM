@@ -67,4 +67,4 @@ Early SM 26: !FINISHED! Added a feature where after you run the command test_spe
 
 Early SM 27: !FINISHED! Added a command where you can see a list of comparisons of how to do something in C vs C++. Command name: compare_C_C++
 
-Early SM 28: !NOT FINISHED! Wanting to add a command to test your speakers to see if they are working.
+Early SM 28: !FINISHED! Added a command to test your speakers to see if they are working. Command name: audio_checker
