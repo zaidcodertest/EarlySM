@@ -1,0 +1,5 @@
+1. Easy to learn
+2. Easy to read
+3. Easy to write
+4. Flexible
+5. General purpose
