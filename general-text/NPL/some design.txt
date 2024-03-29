@@ -4,4 +4,7 @@ chars(16) variable_characters; //variable that is 16 bit, it is basically like a
 bin(8) variable_binary; //8 bit binary variable. it stores a binary value such as 00000001.
 
 ---OUTPUT
-TERMINAL_OUT()
+TERMINAL_OUT("Hello");
+
+---INPUT
+TERMINAL_IN(variable_number, MULTI_INPUT); //input for the variable "variable_number". The second parameter states that it is multi worded/multi space. It will take input until the user hits the enter key.
