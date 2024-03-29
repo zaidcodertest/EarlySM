@@ -1,4 +1,7 @@
 ---VARIABLE DECLARATIONS
 number(16, NO_DECIMAL) variable_number;  //variable that is 16 bit, and has no decimal. Basically its not float or long, a bit like an int.
 chars(16) variable_characters; //variable that is 16 bit, it is basically like a string, and not like the C style of char.
-bin(8) variable_binary; 8 bit binary
+bin(8) variable_binary; //8 bit binary variable. it stores a binary value such as 00000001.
+
+---OUTPUT
+TERMINAL_OUT()
