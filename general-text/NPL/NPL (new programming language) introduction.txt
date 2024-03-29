@@ -1,0 +1,2 @@
+The NPL programming language is made for a smarter design in programming, allowing for a better time trying to program many types of software. The idea behind NPL is to make up as many positives as possible for all sorts of
+areas of work.
