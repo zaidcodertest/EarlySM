@@ -15,5 +15,10 @@ variable_binary.number(16, NO_DECIMAL); //(try to) convert to a 16 bit number.
 variable_binary.chars(32); //(try to) convert to a 32 bit character (or even characters, like in a sentence)
 
 ---TEMPORARY VARIABLES
-temp(0) number(16, NO_DECIMAL) variable_number; //temp means that this is "deletable"
-destroy(0);
+temp(0) number(16, NO_DECIMAL) variable_number; //temp means that this is "deletable", (0) is to assign a value to point to the variable to delete. So that means you are not saying destroy(variable_number), but else wise.
+destroy(0); //remove, destroy, delete are all apropriate words to describe whats happening to the variable.
+
+---IF STATEMENTS
+//pretty much the same as C / C++
+
+---CONVERTING VARIABLES
