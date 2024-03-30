@@ -24,4 +24,4 @@ destroy(0); //remove, destroy, delete are all apropriate words to describe whats
 ---CONVERTING VARIABLES
 bin(8) variable_binary; //declare variable
 TERMINAL_OUT(variable_binary ! converted); //print if variable_binary can be converted
-variable_binary -> number(16, NO_DECIMAL);
+variable_binary -> number(16, NO_DECIMAL); //variable_binary has now been converted to a 16 bit number
