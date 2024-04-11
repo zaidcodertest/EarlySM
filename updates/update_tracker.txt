@@ -69,4 +69,4 @@ Early SM 27: !FINISHED! Added a command where you can see a list of comparisons 
 
 Early SM 28: !FINISHED! Added a command to test your speakers to see if they are working. Command name: audio_checker
 
-Early SM 29: !NOT FINISHED! Wanting to add a UNIX command emulator.
+Early SM 29: !FINISHED! Added a UNIX/DOS command emulator. Command name: system_command_emulator
